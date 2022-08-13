@@ -1,0 +1,5 @@
+Common/data/
+Common/lib/
+vectorAdd
+*.o
+*.log

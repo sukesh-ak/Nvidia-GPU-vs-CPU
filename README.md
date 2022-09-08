@@ -1,8 +1,9 @@
-# vectorAdd - Vector Addition
+# Nvidia GPU vs CPU
 
 ## Description
+This sample shows a comparison between a simple vector addition task and a comparison of it between GPU vs CPU.
 
-This CUDA Runtime API sample is a very basic sample that implements element by element vector addition. It is the same as the sample illustrating Chapter 3 of the programming guide with some additions like error checking.
+CUDA Runtime API sample portion is a very basic sample that implements element by element vector addition. It is the same as the sample illustrating Chapter 3 of the Cuda programming guide with some additions like error checking.
 
 ## Key Concepts
 
